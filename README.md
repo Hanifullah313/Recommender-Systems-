@@ -150,8 +150,8 @@ Contributions are welcome! If you'd like to add a **Matrix Factorization (SVD)**
 
 <div align="center">
 
-**Created by [Hanif Ullah**](https://www.google.com/search?q=https://github.com/Hanifullah313)
+Created by [Hanif Ullah](https://www.google.com/search?q=https://github.com/Hanifullah313)
 
-*Connect with me on [LinkedIn*](https://www.linkedin.com/hanifullah313)
+Connect with me on [LinkedIn](https://www.linkedin/hanifullah313.com)
 
 </div>
